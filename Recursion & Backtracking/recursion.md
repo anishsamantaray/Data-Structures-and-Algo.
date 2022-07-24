@@ -5,3 +5,5 @@
 <p>4. Reverse an array using recursion.</p>
 <p>5. Check if the string is a palindrome.</p>
 <p>6. Find the nth term of a fibonnaci series.</p>
+<p>7. Find all the subsequences of a array .</p>
+<p>8. Find all the subsequences of a array whose sum is k .</p>
