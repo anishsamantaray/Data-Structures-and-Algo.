@@ -4,3 +4,4 @@
 <p>3. Find sum of n numbers using recursion.</p></p>
 <p>4. Reverse an array using recursion.</p>
 <p>5. Check if the string is a palindrome.</p>
+<p>6. Find the nth term of a fibonnaci series.</p>
